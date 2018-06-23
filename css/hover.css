@@ -1,0 +1,102 @@
+.h-nav ul li a:hover
+,.rightnav ul li a:hover{
+    color: rgb(204,67,54);
+}
+.h-header .role .btn:hover{
+    transform: scale(1.1);
+}
+.t-zj-contents ul li a:hover
+,.strategy-r .s-r-content li p:hover{
+    color: rgb(204,153,69);
+}
+.t-game-cal div + div:hover{
+    left: 41px;
+}
+.t-game-cal .t-g-fengmo:hover
+,.t-game-cal .t-g-tzfb:hover
+,.t-game-cal .t-g-shoulie:hover{
+    left: 18px;
+}
+.t-game-cal .t-g-fengmo:hover .t-g-fengmo1{
+    height: 578px;
+}
+.t-g-tiaozhan:hover .t-g-tiaozhan1{
+    height: 212px;
+}
+.t-game-cal .t-g-fuben:hover{
+    z-index: 4;
+}
+.t-game-cal .t-g-fuben:hover .t-g-fuben1{
+    height: 325px;
+    z-index: 4;
+}
+.t-game-cal .t-g-tzfb:hover .t-g-tzfb1{
+    height: 364px;
+    z-index: 3;
+}
+.t-game-cal .shishen:hover .shishen1{
+    height: 187px;
+    z-index: 3;
+}
+.well-wushens .w-ws-left:hover{
+    background-position: -1783px -1467px;
+}
+.well-wushens .w-ws-rigth:hover{
+    background-position: -1177px -311px;
+}
+.well-zhujiao .w-z-lnav div:hover{
+    border: 2px solid #000;
+    background-color: #fff;
+}
+.well-wushens ul li div.on:hover{
+    opacity: 1;
+}
+.well-subnav ul li:hover{
+    color:rgb(204,153,69) ;
+}
+.s-l-subnav .s-l-lownav li span:hover{
+    top: -10px;
+}
+.area-topnav div ul .goto:hover{
+    right: -34px;
+}
+.area-c-con1 ul li img:hover ~ span{
+    opacity: 1;
+}
+.area-c-con1 ul li span:hover{
+    opacity: 1;
+}
+.video-wall .v-c-video ul li:hover a img
+,.video-wall .v-c-wall ul li:hover a img{
+    transform: scale(1.1);
+}
+.activity-area ul li:hover a img{
+    transform: scale(1.1);
+}
+
+.foot-tiyan:hover .door{
+    top: 210px;
+}
+.foot-tiyan:hover .erweima{
+    top: 55px;
+    opacity: 1;
+}
+.cus-ser .s-fanhui:hover{
+    top: -20px;
+}
+@keyframes bun {
+    from{
+        left:-100px;
+    }
+    to{
+        left: 92%;
+    }
+}
+@keyframes line {
+    from{
+        top: 0;
+    }
+    to{
+        top: 97px;
+    }
+}
